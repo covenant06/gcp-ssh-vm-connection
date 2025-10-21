@@ -119,7 +119,7 @@ Generated an SSH key pair from the local terminal using: ssh-keygen -t rsa-b 409
 ### Connected to the VM via MobaXterm (SSH)
 
 <img width="1631" height="942" alt="Screenshot 2025-10-20 211914" src="https://github.com/user-attachments/assets/c499f516-68bc-4844-a088-54cb10a9e07a" />
-## Linux Administrative Tasks
+# Linux Administrative Tasks
 
 After provisioning my VM, I performed some basic Linux administration tasks using the terminal:
 i created new users using this command (sudo useradd/adduser name of username)
